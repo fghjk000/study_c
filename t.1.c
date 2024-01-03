@@ -1,5 +1,5 @@
 #include <stdio.h> 
-main () 
+int main () 
 { 
 int a = 30; 
 float b = 3.14; 
